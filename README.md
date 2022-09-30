@@ -1,4 +1,4 @@
-### WoW Notifier
+# WoW Notifier
 Sends a message when your WoW Server Queue has ended.  
 Currently supports Discord, Telegram, Text Messages, Alexa 'Notify Me' Skill, Home Assistant scripts and Pushover (Thanks @pattont). If you want another notification type, let me know.    
   
