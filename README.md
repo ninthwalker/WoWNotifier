@@ -1,9 +1,4 @@
-<p align="center">
-<img align="center" src="https://raw.githubusercontent.com/ninthwalker/WoWNotifier/master/screenshots/WoWNotifierLogo.png" width="225"></p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/ninthwalker/WoWNotifier/master/screenshots/WoWNotifierQuePopped.png"></p>  
-
-## WoW Notifier
+### WoW Notifier
 Sends a message when your WoW Server Queue has ended.  
 Currently supports Discord, Telegram, Text Messages, Alexa 'Notify Me' Skill, Home Assistant scripts and Pushover (Thanks @pattont). If you want another notification type, let me know.    
   
@@ -142,11 +137,3 @@ interval time in minutes. Optional, default is "No"
 4. Remember that the Game window needs to be at the foreground of one of your monitors for this to work. Don't have another application or window covering the game.  
 
 ## Screenshots  
-
-<img src="https://raw.githubusercontent.com/ninthwalker/WoWNotifier/master/screenshots/WoWNotifierQuePopped.png">  
-
-![](https://raw.githubusercontent.com/ninthwalker/WoWNotifier/master/screenshots/WoWNotifierStart.png) ![](https://raw.githubusercontent.com/ninthwalker/WoWNotifier/master/screenshots/WoWNotifierCoords.png)  
-
-![](https://raw.githubusercontent.com/ninthwalker/WoWNotifier/master/screenshots/WoWNotifierRunning.png) ![](https://raw.githubusercontent.com/ninthwalker/WoWNotifier/master/screenshots/WoWNotifierEnded.png)  
-
-![](https://raw.githubusercontent.com/ninthwalker/WoWNotifier/master/screenshots/WoWNotifierScripts.png)  
